@@ -1,2 +1,2 @@
 # Mini-Thesis-Notebook
-Mathematica notebook used to find expression in mini-thess
+Mathematica notebook used to find expressions in mini-thess
